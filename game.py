@@ -1,5 +1,6 @@
 from board import Board
 from Alphabeta import alphabeta
+from MiniMax import minimax
 import time
 import random
 
